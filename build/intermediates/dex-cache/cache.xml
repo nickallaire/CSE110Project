@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_7cc09779563651d3f1101540d2ee4783e8d1b95c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_42a8f2e34611460810c41f212357ca9d72d3ea5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_fd5f6f5d036a545659c5fc02ce6d3b5d4da16514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_67061394083ca336c295dc3b595ae8ee604d3c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_6e17fd80df18ddb09cdb90a0275c6f51cd10c07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_b3bc11d7f0055e4df9c956d3bc0e0e1f2a037457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_5483f687631f6ec9c17af57aea79fae09570863b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_4782774087407434304ef283a0c103ca02842792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_6c20729b06ea5c182aa998de3f01e3ac2297fd93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_b80f3bde4d17579d33cc85c995667626a2746664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_c14e5126d115be287fda65b6b750e4cc38033131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_4d37b0c4b05de3729adff5a8bcdd11abe1f59ca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_06bb7e1fb92073495a50b9e16cf9e7513d9b1c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_8c6a0f074163ffbb4bb9b8625f8c52a86a942d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_7cc09779563651d3f1101540d2ee4783e8d1b95c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_31030660a96b43d17afcf119fe151eed55761296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_d281a2b9e688d0c9cf4e303d54bc7583b8df14a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_42a8f2e34611460810c41f212357ca9d72d3ea5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9c8e2d2f5d7f9eb90750365c2963f4b5c24339aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_6e17fd80df18ddb09cdb90a0275c6f51cd10c07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_22ac1013b5835adfe0ebf952943311ff6a7da474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_d1946804bade53317f41937b465faaba01f6d298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_fd5f6f5d036a545659c5fc02ce6d3b5d4da16514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd973558d52252fc1cadc48fc301e3b317d5f330">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_437667c55026ffe58c0a4e515a330a056cc2a97e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_5483f687631f6ec9c17af57aea79fae09570863b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_b3bc11d7f0055e4df9c956d3bc0e0e1f2a037457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_6b34b77a590b84bebbb170726ba5179d16407f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_b80f3bde4d17579d33cc85c995667626a2746664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_8c6a0f074163ffbb4bb9b8625f8c52a86a942d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_31030660a96b43d17afcf119fe151eed55761296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_90aea7d4e4710b10d2b1a197639a557b2e235c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_d1946804bade53317f41937b465faaba01f6d298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d10628ab44df4d0e2ecdd686eea07c1474113fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2081c96df34317df124742756ee608e2880e689d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_338ff0a28987312b38b28101439113e7203614c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_96b3d95f8cd45eca99a32a4d99c8bec0e9ed9aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_05e588811efa70525f2abc70a41416cb934913fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_119c8ab1cd0b15e94ef0bd78ecf0b17d92897249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_6e77862ee74ed47b26a19a306048016fd050defb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_22ac1013b5835adfe0ebf952943311ff6a7da474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_a0f418e33480f85327ac3425f1bedf315f40ff41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_d281a2b9e688d0c9cf4e303d54bc7583b8df14a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_7ef8df6a9f4509b6dc8a12b4b50dd46af679fb09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9c8e2d2f5d7f9eb90750365c2963f4b5c24339aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_338ff0a28987312b38b28101439113e7203614c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_fcbbf035f123b2baf3cab82fdad0ed46232fc767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_5f277c834d81d8d883865ded97dfc301442a636a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_6f0fedaa17bf29e856b3b03a339309297aad24d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_47c063c35b0f401834e56230497f522d66590c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_0920164002d827b91b63e845c2857416d4c362d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f1e6cf5a6c60af530d4dec294da7f49f5b363b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_6b34b77a590b84bebbb170726ba5179d16407f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_90aea7d4e4710b10d2b1a197639a557b2e235c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d10628ab44df4d0e2ecdd686eea07c1474113fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_88c72d34b296ed930613a48d891af1031cb09f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3ca88a395d4ef5f311ee3579d4b4a0ab6b5f7a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_96b3d95f8cd45eca99a32a4d99c8bec0e9ed9aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2e5b2a16a2bf091a6b9cea88603a91b2a4005311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2081c96df34317df124742756ee608e2880e689d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_1bb7a9a56379d603aa2c49710b9a59c5f4515b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_4782774087407434304ef283a0c103ca02842792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_6bfd7df7514fc683c0d39fe7a983c2ffa6754122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_6d7d4922ae7e348059d7be067d9ff9fd920da6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_a0f418e33480f85327ac3425f1bedf315f40ff41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_05e588811efa70525f2abc70a41416cb934913fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_6e77862ee74ed47b26a19a306048016fd050defb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_119c8ab1cd0b15e94ef0bd78ecf0b17d92897249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_087794b59a617ea72eb0394765462e8722eaea40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_5f277c834d81d8d883865ded97dfc301442a636a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_47c063c35b0f401834e56230497f522d66590c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_6c20729b06ea5c182aa998de3f01e3ac2297fd93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_67061394083ca336c295dc3b595ae8ee604d3c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c44b78461c67094b463f7e160d6140d84032aa70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_3f17d2bbe5e2fcf9aaa56f294fc80ab99a68c3e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_b05102b6ae47293e2f76d152ea9b6349f336c541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_e9ba751f75d79f2565778a0a6034abb2ac1f5bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f1e6cf5a6c60af530d4dec294da7f49f5b363b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_7ef8df6a9f4509b6dc8a12b4b50dd46af679fb09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_39dac58cb904a90a8397708f59fd1dd9eede67a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_ccac6d0816c691f0f2d205584d7904d9643f9776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_0d1f7e139c40adb2aed3fdc5e6f3d4691fcdf255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b19e8e345ab0c008d56aed12e79a9dd2acec6dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_c2beaa488b6fc20c3f64c82778d6213aac381b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_1bb7a9a56379d603aa2c49710b9a59c5f4515b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3ca88a395d4ef5f311ee3579d4b4a0ab6b5f7a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_0d6f5589e2180c2e05f15c0b54ab97a25846d616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_cfdac6198fd505de9f57e51583664f815369f5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_88c72d34b296ed930613a48d891af1031cb09f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_6bfd7df7514fc683c0d39fe7a983c2ffa6754122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a4b27105e444bec36731699e474bb6fc14afdd08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_673b9795681952dad0bd1f5bbfea079137d1653f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_b05102b6ae47293e2f76d152ea9b6349f336c541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_39dac58cb904a90a8397708f59fd1dd9eede67a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c44b78461c67094b463f7e160d6140d84032aa70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_28a7857480075d7b5a4c8f820e7d9f8f9f128e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_6d7d4922ae7e348059d7be067d9ff9fd920da6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_3f17d2bbe5e2fcf9aaa56f294fc80ab99a68c3e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_15289f92e637cc1ad5ceb83d9d0a2a032a015dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b80902671574ae7371db9d840442d58b747acde1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_e8032f06cf7ea0127c333d851622fa8b52e65eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_087794b59a617ea72eb0394765462e8722eaea40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_fd38c927222c60d3638fc362bcced9dd0a90c07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_0d1f7e139c40adb2aed3fdc5e6f3d4691fcdf255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_b18d39826cf45ad90785523a2b5b36dd32e2b2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_e9ba751f75d79f2565778a0a6034abb2ac1f5bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_b0ed1018ef95e90f8a1ade5e55367fe929ea487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_fcbbf035f123b2baf3cab82fdad0ed46232fc767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_673b9795681952dad0bd1f5bbfea079137d1653f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_95ddd143357eb301306cb854c43476cfc2bc528d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_0d6f5589e2180c2e05f15c0b54ab97a25846d616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_bc59b9b9328af6fdd19dd592183a14b4ebdf0ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a4b27105e444bec36731699e474bb6fc14afdd08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_0684bcc616aa03ae41423fc0890afcf246d6bb7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_0920164002d827b91b63e845c2857416d4c362d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_15289f92e637cc1ad5ceb83d9d0a2a032a015dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_84f863b558f52a4406eb8725e869084502bcb32d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_e8032f06cf7ea0127c333d851622fa8b52e65eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2e5b2a16a2bf091a6b9cea88603a91b2a4005311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_28a7857480075d7b5a4c8f820e7d9f8f9f128e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2a68d5949fcf81e45c4bdc6cec5700317c23ff03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b80902671574ae7371db9d840442d58b747acde1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_d00b1d427865c46cf48de3f7001d0c6de2556f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13200d23726cc41ac546adb18cb92b837934097e">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcbe3ccd2440fe3657976da8eedc300496f844fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_b18d39826cf45ad90785523a2b5b36dd32e2b2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_6f0fedaa17bf29e856b3b03a339309297aad24d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2a68d5949fcf81e45c4bdc6cec5700317c23ff03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_8f917c1a860b3de0a3dcb96b368ec99cffb6838b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_6d185ada18dcee6c36a63030070d998e827e9f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_84f863b558f52a4406eb8725e869084502bcb32d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_0684bcc616aa03ae41423fc0890afcf246d6bb7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_bc59b9b9328af6fdd19dd592183a14b4ebdf0ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_1aa3d5cc432c530decc0e26d4157dadc8d279b8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_0bf24272ff3782980ff849f98c7be231981b3b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_95ddd143357eb301306cb854c43476cfc2bc528d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_6d185ada18dcee6c36a63030070d998e827e9f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_f18f26ee7d5aa70bbcb56184c59aba926aec7774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_d00b1d427865c46cf48de3f7001d0c6de2556f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_c2beaa488b6fc20c3f64c82778d6213aac381b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b19e8e345ab0c008d56aed12e79a9dd2acec6dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_18406ddfcc40483c192b329bedd377c1171dbbf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_8f917c1a860b3de0a3dcb96b368ec99cffb6838b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_cfdac6198fd505de9f57e51583664f815369f5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_b0ed1018ef95e90f8a1ade5e55367fe929ea487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_4d37b0c4b05de3729adff5a8bcdd11abe1f59ca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_1aa3d5cc432c530decc0e26d4157dadc8d279b8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_f18f26ee7d5aa70bbcb56184c59aba926aec7774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_c14e5126d115be287fda65b6b750e4cc38033131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_fd38c927222c60d3638fc362bcced9dd0a90c07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_0bf24272ff3782980ff849f98c7be231981b3b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_06bb7e1fb92073495a50b9e16cf9e7513d9b1c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_ccac6d0816c691f0f2d205584d7904d9643f9776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/nsallaire/Documents/Fall 2016/CSE 110/TeamProject/ProjectClone/TEAM19/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_18406ddfcc40483c192b329bedd377c1171dbbf0/classes.dex" />
+    </item>
+
+</items>

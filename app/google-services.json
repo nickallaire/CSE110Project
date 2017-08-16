@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379542178150",
+    "firebase_url": "https://team19-dafad.firebaseio.com",
+    "project_id": "team19-dafad",
+    "storage_bucket": "team19-dafad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379542178150:android:c2cc70160f8c12ef",
+        "android_client_info": {
+          "package_name": "com.apockestafe.team19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379542178150-c5qk064a021vmn6hrkb33pp70uh857bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apockestafe.team19",
+            "certificate_hash": "A9E417F801168FB62406F198AD2C6EDD5B604F64"
+          }
+        },
+        {
+          "client_id": "379542178150-5hskoilvkklj1e3ajkmc0tg3rs52bi0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39NSOlIzldaIZCHpNmz4sZgX1cuZ07NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379542178150-5hskoilvkklj1e3ajkmc0tg3rs52bi0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
